@@ -8,6 +8,8 @@ KUNG MAAARI WAG MUNA KAU MAG MACRO IF DI KO PA KAYO NAUUPDATE
 Update Link - (https://bit.ly/MacroUps) WITH S PO
 Pa type at download nalang sa Browser and May Step Picture jan pa follow nalang
 
+NO SPACES KAPAG MAG PAPALIT NG MACRO NAME
+
 Oopen nyo po yung RENAME.exe after nyo magawa yung Update.. Pa tingin nung Step1 at Step2 Picture jan
 
 Pag nagawa nyo lahat yan Padelete nung Main.exe
