@@ -1,3 +1,7 @@
-So ayun may problema yung Auto Update bigay ako maya ulet link para maupdate yung auto update..
+Nagkaproblema yung Auto Update kaya eto ulet yung panibagong link.. https://bit.ly/macropanic
 
-Panic Cave (Easy ~ Premium) sabay ko na
+Pa extract sa LOOB Mismo ng DATA Folder ng MACRO ... Macro\DATA\
+
+Dapat may lalabas jan na irereplace mo yung existing Updater.exe para masabing tama ginawa mo
+
+PANIC EASY ~ PREMIUM TESTING PHASE PM NYO LANG IF MAY SUGGESTION KAYO OR PARA MA FIX NATIN
