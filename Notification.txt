@@ -1,12 +1,1 @@
-Nagkaproblema yung Auto Update kaya eto ulet yung panibagong link.. https://bit.ly/macropanic
-
-Pa extract sa LOOB Mismo ng DATA Folder ng MACRO ... Macro\DATA\
-Pa Extract narin nung UI.zip sa CABAL FOLDER
-
-Dapat may lalabas jan na irereplace mo yung existing Updater.exe para masabing tama ginawa mo
-
-PANIC EASY ~ PREMIUM TESTING PHASE PWEDE SA MELEE.. PM NYO LANG IF MAY SUGGESTION KAYO OR PARA MA FIX NATIN
-
-NOTE: BM2 SLOT 0 SA MGA HINDI DUAL TARGET ANG BM2
-    : TRY NYO CHECK MUN YUNG CANCEL BM1
-    : NAKA FREE VIEW DAPAT
+Sino Jan Arial Bold 11.5/Arial 11.3 yung Font na gamit sa CABAL na gusto itry yung Panic PM ME
