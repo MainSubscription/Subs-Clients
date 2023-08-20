@@ -1,9 +1,4 @@
-Pa sunod ng Guide.zip tapos RELOAD nyo CABAL after nyo magawa Guide.zip
+MGA MAY ARH JAN TRY NYO NA PWEDE BOTH RANGE/MELEE
 
-Pag gumana na macro.. nakapasok na sa dungeon wag nyo na gawin yung sa guide.zip
-
-<Sira yung Extraction sa AHV>
-
-Pwede na Alt Tab CA basta Wag nyo harangan yung Logo ng Mobs (HP SA TAAS)
-
-Paki Try nung ARH Test Run (Pwede na Melee) (ver 4.0.6 up pinaka smooth sa ARH)
+QUARTER VIEW DAPAT
+(AUTO REVIVE YAN PM NYO Q IF MAY PROBLEMA)
