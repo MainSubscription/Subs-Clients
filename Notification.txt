@@ -7,3 +7,5 @@ Makikita nyo yung AIC sa OtherMain..
 Pag Di padin mapindot yung AIC kahit 500 Inavail nyo Open nyo Ver.ini Then Minus nyo yung Value ng 1 then Save
 
 TEST run palang so madami pang error kaya pa sabi sakin if san kau nag fail or na stuck..
+
+>> Fix na Panic <<
