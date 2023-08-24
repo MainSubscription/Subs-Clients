@@ -1,1 +1,7 @@
-OtherMain.exe na yung Macro..
+AIC is OUT
+
+Pa silip nung Guide.zip Pasunod nadin ng Notepad jan
+
+Makikita nyo yung AIC sa OtherMain..
+
+Pag Di padin mapindot yung AIC kahit 500 Inavail nyo Open nyo Ver.ini Then Minus nyo yung Value ng 1 then Save
