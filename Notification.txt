@@ -1,11 +1,7 @@
-AIC is OUT (QUARTER VIEW)
+If ever mag loko ECA nyo (Di maopen)
 
-Pa silip nung Guide.zip Pasunod nadin ng Notepad jan
-
-Makikita nyo yung AIC sa OtherMain..
-
-Pag Di padin mapindot yung AIC kahit 500 Inavail nyo Open nyo Ver.ini Then Minus nyo yung Value ng 1 then Save
-
-TEST run palang so madami pang error kaya pa sabi sakin if san kau nag fail or na stuck..
-
->> Fix na Panic <<
+>Close Macro
+>Rename OtherMain.exe (Kahit Ano ilagay nyo)
+>Open nyo Ver.ini.. Bawasan yung Value (Ex. 4.4.3 => 4.4.2)
+>Open nyo yung OtherMain.exe
+>May lilitaw na Panibagong OtherMain jan Delete nyo na yung nirename nyo..
