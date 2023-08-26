@@ -3,5 +3,5 @@ If ever mag loko ECA nyo (Di maopen)
 >Close Macro
 >Rename OtherMain.exe (Kahit Ano ilagay nyo)
 >Open nyo Ver.ini.. Bawasan yung Value (Ex. 4.4.3 => 4.4.2)
->Open nyo yung OtherMain.exe
+>Open nyo yung OtherMain.exe na nirename nyo
 >May lilitaw na Panibagong OtherMain jan.. Delete nyo na yung nirename nyo..
