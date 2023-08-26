@@ -4,4 +4,4 @@ If ever mag loko ECA nyo (Di maopen)
 >Rename OtherMain.exe (Kahit Ano ilagay nyo)
 >Open nyo Ver.ini.. Bawasan yung Value (Ex. 4.4.3 => 4.4.2)
 >Open nyo yung OtherMain.exe
->May lilitaw na Panibagong OtherMain jan Delete nyo na yung nirename nyo..
+>May lilitaw na Panibagong OtherMain jan.. Delete nyo na yung nirename nyo..
