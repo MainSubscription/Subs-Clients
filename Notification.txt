@@ -5,5 +5,3 @@ If ever mag loko ECA nyo (Di maopen)
 >Open nyo Ver.ini.. Bawasan yung Value (Ex. 4.4.3 => 4.4.2)
 >Open nyo yung OtherMain.exe na nirename nyo
 >May lilitaw na Panibagong OtherMain jan.. Delete nyo na yung nirename nyo..
-
-5:53AM onwards di na gagana auto login wait nyo nlng ulet ako magising
