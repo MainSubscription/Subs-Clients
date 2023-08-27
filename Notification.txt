@@ -7,6 +7,6 @@
 
 ===> Walang AIC sa Macro <===
 >Punta kau ng Guide.zip
->Meron jan Updater.exe Copy nyo papunta dun sa DATA Folder ng Macro (MACRO\DATA\)
+>Meron jan Updater.exe Copy nyo papunta dun sa DATA   Folder ng Macro (MACRO\DATA\)
 >Open nyo Ver.ini.. Bawasan yung Value (Ex. 4.4.3 => 4.4.2)
 >Open nyo yung OtherMain.exe
