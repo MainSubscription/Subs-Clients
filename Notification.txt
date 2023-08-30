@@ -7,7 +7,7 @@ Survey lang. Gusto nyo ba gawan ko pa ng Macro yung EOP? PM NYO AKO kung oo
 >Open nyo yung OtherMain.exe na nirename nyo
 >May lilitaw na Panibagong OtherMain jan.. Delete nyo na   yung nirename nyo..
 
-===> Walang AIC sa Macro <===
+===> Walang AIC/EOP sa Macro <===
 >Punta kau ng Guide.zip
 >Meron jan Updater.exe Copy nyo papunta dun sa DATA   Folder ng Macro (MACRO\DATA\)
 >Open nyo Ver.ini.. Bawasan yung Value (Ex. 4.4.8 => 4.4.7)
