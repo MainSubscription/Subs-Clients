@@ -1,7 +1,3 @@
->>Ugaliin pong mag reclient kung iiwanan ng matagal yung Macro<<
-
->> HV EASY TO HARD AUTO REVIVE MERON NA <<
-
 ===> Ayaw bumukas ng ECA <===
 >Close Macro
 >Rename OtherMain.exe (Kahit Ano ilagay nyo)
