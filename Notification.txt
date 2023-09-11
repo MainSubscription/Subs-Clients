@@ -1,3 +1,5 @@
+Meron na Auto Extract sa ARH AIC 
+
 ===> Ayaw bumukas ng ECA <===
 >Close Macro
 >Rename OtherMain.exe (Kahit Ano ilagay nyo)
