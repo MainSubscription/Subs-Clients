@@ -1,14 +1,1 @@
-Meron na Auto Extract sa ARH AIC 
-
-===> Ayaw bumukas ng ECA <===
->Close Macro
->Rename OtherMain.exe (Kahit Ano ilagay nyo)
->Open nyo Ver.ini.. Bawasan yung Value (Ex. 4.4.8 => 4.4.7)
->Open nyo yung OtherMain.exe na nirename nyo
->May lilitaw na Panibagong OtherMain jan.. Delete nyo na   yung nirename nyo..
-
-===> Walang AIC/EOP sa Macro <===
->Punta kau ng Guide.zip
->Meron jan Updater.exe Copy nyo papunta dun sa DATA   Folder ng Macro (MACRO\DATA\)
->Open nyo Ver.ini.. Bawasan yung Value (Ex. 4.4.8 => 4.4.7)
->Open nyo yung OtherMain.exe
+Nothing
