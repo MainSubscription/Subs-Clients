@@ -1,1 +1,4 @@
-Nothing
+>> Version 4.8.6 <<
+- AHV Auto Revive 
+- BM AURA ECA Last Boss <<
+- Fixes some minor issues on EOP <<
