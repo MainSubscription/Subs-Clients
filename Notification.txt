@@ -1,5 +1,3 @@
->> Version 4.8.8 <<
-- AHV Auto Revive 
-- BM AURA ECA Last Boss 
-- Fixes some minor issues on EOP 
+>> Version 4.8.9 <<
+- Added BM Aura on CA
 - Added more bugs to fix later
