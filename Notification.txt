@@ -1,6 +1,3 @@
->> 5.0.0 <<
-Free View na ECA
+Kung nag kakaproblema kayo sa UI ng war sa 200 Extract nyo lang yung UI na nanjan sa Macro papuntang CABAL Folder (CABAL Online\DATA\)
 
-pa test run muna wag muna nyo ibuhos run nyo
-
-BM Aura Slot (ALT -)
+UI.zip
