@@ -3,6 +3,7 @@
 - RtoolMain na name ng macro
 - Maoopen nyo lang Mga Macro pag RtoolMain bubuksan nyo
 - Para Lumitaw yung RtoolMain.
+  > Open nyo Guide.zip tapos Pasunod ng Instruction.PNG
   > Open Ver.ini (Edit mo gawing mong 1.0.0 Then Save)
   > Open mo ulet Othermain
   > Repeat mo atleast 2 times
