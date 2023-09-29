@@ -6,7 +6,7 @@
   > Open nyo Guide.zip tapos Pasunod ng Instruction.PNG
   > Open Ver.ini (Edit mo gawing mong 1.0.0 Then Save)
   > Open mo ulet Othermain
-  > Repeat mo atleast 2 times
+  > Repeat mo atleast 2 times yung Pag edit edit sa Ver.ini pati Reopen
 - Lilitaw na RToolMain jan sa Macro Folder
 - Magiging RtoolMain na name ng Macro
 - Thank you sa pag update.
