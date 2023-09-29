@@ -1,3 +1,11 @@
-Kung nag kakaproblema kayo sa UI ng war sa 200 Extract nyo lang yung UI na nanjan sa Macro papuntang CABAL Folder (CABAL Online\DATA\)
-
-UI.zip
+> Version 5.1.4 <
+- Di nyo maoopen yung Ibang Macro
+- RtoolMain na name ng macro
+- Maoopen nyo lang Mga Macro pag RtoolMain bubuksan nyo
+- Para Lumitaw yung RtoolMain.
+  > Open Ver.ini (Edit mo gawing mong 1.0.0 Then Save)
+  > Open mo ulet Othermain
+  > Repeat mo atleast 2 times
+- Lilitaw na RToolMain jan sa Macro Folder
+- Magiging RtoolMain na name ng Macro
+- Thank you sa pag update.
