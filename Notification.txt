@@ -1,8 +1,6 @@
-5.1.10 Version Up
-If nag kakaproblema macro nyo ayaw mag bukas ng macro...
+mga nahihirapan palabasin rtool
 
-Extract Here nyo yung Guide (naka zip or naka rar jan)
+nilagay ko na sa instruction dun sa Guide.exe (yung pulang application)
 
-replace, Change Value Ver or Ver.ini to 1.0.0
 
-Open Rtoolmain.exe
+pa open nlng tapos pasunod
