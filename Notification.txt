@@ -1,1 +1,3 @@
-Update 5.4.7 - Fixed yung Bridge pag may naiwan na palaka babalikan nya
+Version 5.4.7 - Fixed yung Bridge pag may naiwan na palaka babalikan nya
+
+Version 5.4.8 - Auto Pindot na sa DOTD yung ibang DG para pumasok padin agad kahit nag reset na DOTD
