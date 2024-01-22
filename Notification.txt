@@ -1,5 +1,3 @@
-Version 5.4.8 - Auto Pindot na sa DOTD yung ibang DG para pumasok padin agad kahit nag reset na DOTD
+Version 5.4.14 - Nilagyan ko ng anti ipit AIC sa 3rd Boss, Fix narin yung hindi nag rerechannel sa Seni, Auto Hit kahit nasa Cygnus ka
 
-Version 5.4.9 - Upgraded na AutoHit natin.. Mga Taga Cygnus jan magagamit nyo yan pag papalevel. Choice nyo kung saang spot kayo Rechannel at Auto Revive narin.
 
-Mga taga Cygnus na gagamit ng Auto Hit iwas kayo sa Channel 4 6 8.. di gagana rechannel jan unless resnip nyo yung channel
