@@ -1,3 +1,1 @@
-Version 5.4.14 - Nilagyan ko ng anti ipit AIC sa 3rd Boss, Fix narin yung hindi nag rerechannel sa Seni, Auto Hit kahit nasa Cygnus ka
-
-
+Version 5.5.2 - Inayos ko na yung First Wave sa EOP..
