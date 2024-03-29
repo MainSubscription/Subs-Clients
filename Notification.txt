@@ -1,5 +1,5 @@
-FIX NA SENI RECHANNEL CHANNEL 9 ~ 11 MERCURY PA UPDATE NG MACRO
-
-MONDAY ~ SATURDAY - 6PM LANG AKO MAKAKAPAG RENEW AT SETUP SA MGA MAG-AAVAIL
-
-SUNDAY PWEDE AKO.. PAKULIT NALANG AKO PAG DI AKO SUMAGOT HAHA
+> Macro Update <
+Version 5.6.1
+-Steamer (Auto Continue when dungeon fail)
+-Chaos Arena (Anti Stuck on Starting Point(Before Gate), Auto Continue when dungeon fail)
+-EOP (Improve Auto Revive)
