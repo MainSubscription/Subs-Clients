@@ -1,4 +1,2 @@
 > Macro Update <
-Version 5.6.5
--Possible nyo na mabago Retarget Keys. Punta kayo DATA Folder and Open nyo yung Keybinding/Keybinding.ini.. Edit nyo yung Retarget
--Sa mga nagloloko Extraction jan, inupdate ko narin yung UI.zip, Pa extract nalang sa Cabal Folder nyo (CABAL Online\DATA\)
+-Sasarado na CABAL PH, Play CABAL Private Server muna
