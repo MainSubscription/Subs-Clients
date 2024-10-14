@@ -1,2 +1,2 @@
 > Macro Update <
--Pwede na EOP, ARH pati AIC sa PlayCabal
+-Auto Extract PlayCABAL AIC ARH EOP (Enabled nyo muna /ext)
