@@ -1,1 +1,10 @@
 Paalala ugaliin maglagay ng protection sa mga valuable nyong item kapag gagamit ng extraction ng macro.
+
+v1.1.2
+
+* Updated all startup dungeons
+* Adjust timer on Steamer
+* Adjust timer on SOD
+* Modify fix for Map Part
+* Remove Auto Center on EOD
+* Added Checkmenu for PlayCabal
