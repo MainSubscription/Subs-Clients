@@ -1,7 +1,9 @@
 Paalala ugaliin maglagay ng protection sa mga valuable nyong item kapag gagamit ng extraction ng macro.
 
-v1.1.2
+Sa Mga nag kakaproblema na update.. Need nyo mag redownload
+Punta kayo sa (EasyPlay) Menu > Contact me.. Then pm nyo Fix EasyPlay
 
+v1.1.2
 * Updated all startup dungeons
 * Adjust timer on Steamer
 * Adjust timer on SOD
